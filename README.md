@@ -1,27 +1,6 @@
 # CISCO-FINAL-PROJECT
 
-OVERVIEW AND OBJECTIVES
-This final case study allows students to build and configure a complex network using skills gained throughout the course. This case study is not a trivial task. To complete it as outlined with all required documentation will be a significant accomplishment.
-The case study scenario describes the project in general terms, and will explain why the network is being built.
-Following the scenario, the project is broken into a number of phases, each of which has a detailed list of requirements. It is important to read and understand each requirement to make sure that the project is completed accurately.
-The teacher must validate the completion of each phase before passing from one phase to another.
-The following tasks are required to complete the case study:
- Design the network using the diagram (packet tracer) and accompanying narrative
- Simulate and test the network using the network simulator tool Packet Tracer
- Correctly configure multiple area OSPF or OSPF/EIGRP
- Correctly use IPv4 and IPv6 addressing
- Correctly configure VLANs over VTP on DUBLIN branch including Intra-VLAN and Inter-VLAN communication.
- Correctly configure EtherChannel
- Correctly configure RSTP
- Correctly configure HSRP on Edinburgh branch
- Correctly configure HDLC
- Correctly configure PPP with PAP or CHAP authentication
- Correctly configure DHCP
- Correctly configure NAT and PAT on ISP router
- Correctly configure SSH over AAA server to provide centralised secure connection to router DUBLIN from IT Support PCs
- Correctly configure Wireless LAN with WLC using 3 LWA and DHCP server to connect Wireless devices on Limerick branch.
- Create and apply access control lists to manage internal traffic between VLANs
- Configure ZPF to protect company’s network from external attacks
- Correctly configure VPN IPSec site-to-site to secure traffic between Galway and Limerick
- Verify that all configurations are operational and functioning according to the scenario guidelines
- Provide documentation and configuration files as detailed in the following sections
+The project to design and implement a network for a company with multiple sites in five cities required a comprehensive approach that incorporated various network technologies and protocols. The project involved designing the network using a packet tracer diagram and accompanying narrative, simulating, and testing the network, and correctly configuring OSPF, EIGRP, VLANs, VPNs, HSRP, PPP, DHCP, NAT, PAT, SSH, Access Control Lists, and EtherChannel.
+The project also required the correct use of IPv4 and IPv6 addressing and the configuration of a wireless LAN with WLC and DHCP server. Additionally, the project involved providing documentation and configuration files as detailed in the project specification.
+Although the project encountered some challenges, including issues with VLAN configuration and addressing, these were addressed through various troubleshooting methods, such as verifying configuration settings, checking logs, and using appropriate tools.
+Overall, the project was successful in meeting the company's requirements for a comprehensive and efficient network design that utilizes private addresses throughout, with VLSM used to minimize wasted address space. The project also incorporated the use of various network technologies and protocols to enhance network security, improve network performance, and ensure reliable communication across the company's multiple sites.
